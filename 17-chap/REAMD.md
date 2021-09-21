@@ -1,0 +1,1 @@
+Skipped this chapter.  Access Control Lists (ACLs) is nothing I've ever used and there more important chapters in the book to research.
