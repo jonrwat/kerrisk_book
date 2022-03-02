@@ -19,7 +19,7 @@ indent_mode=2
 
 [project]
 name=main
-base_path=/home/pi/Source/24-chap/
+base_path=/home/pi/Source/25-chap/
 description=
 
 [long line marker]
@@ -28,7 +28,7 @@ long_line_column=72
 
 [files]
 current_page=0
-FILE_NAME_0=1600;C;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FSource%2F24-chap%2Fmain.c;0;4
+FILE_NAME_0=1187;C;0;EUTF-8;1;1;0;%2Fhome%2Fpi%2FSource%2F25-chap%2Fmain.c;0;4
 
 [VTE]
-last_dir=/home/pi/Source/24-chap
+last_dir=/home/pi/Source/25-chap
